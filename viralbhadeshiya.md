@@ -69,7 +69,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/viral-bhadeshiya/" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/valentin-lamothe-coulomme/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
   <a href="https://www.instagram.com/viralbhadeshiya/" target="blank"><img align="center"
@@ -81,11 +81,12 @@
   <a href="https://www.upwork.com/freelancers/~01b76da506f37dac94" target="blank"><img align="center"
       src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg"
       alt="Viral Bhadeshiya" height="30" width="auto" /></a>
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
 </p>
 
 -----
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viralbhadeshiya&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=viralbhadeshiya&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
